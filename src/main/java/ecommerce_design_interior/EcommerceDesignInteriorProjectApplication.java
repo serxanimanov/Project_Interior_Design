@@ -12,6 +12,9 @@ public class EcommerceDesignInteriorProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceDesignInteriorProjectApplication.class, args);
+
+
+		System.out.println("TestGithub");
 	}
 
 	@Bean
